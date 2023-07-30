@@ -60,3 +60,6 @@ software systems: An analysis of variance." Proceedings of the 35th IEEE/ACM int
 10. Keskar, Nitish Shirish, et al. "On large-batch training for deep learning: Generalization gap and sharp minima." arXiv preprint arXiv:1609.04836 (2016).
 11. Kandel, Ibrahem, and Mauro Castelli. "The effect of batch size on the generalizability of the convolutional neural networks on a histopathology dataset."
 ICT express 6.4 (2020): 312-315.
+
+## Note
+The paper is still in process of publishing !
