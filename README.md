@@ -61,5 +61,3 @@ software systems: An analysis of variance." Proceedings of the 35th IEEE/ACM int
 11. Kandel, Ibrahem, and Mauro Castelli. "The effect of batch size on the generalizability of the convolutional neural networks on a histopathology dataset."
 ICT express 6.4 (2020): 312-315.
 
-## Note
-The paper is still in process of publishing !
