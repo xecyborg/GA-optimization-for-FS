@@ -3,7 +3,7 @@ Code for my academic research project titled "Optimizing Genetic Algorithm for F
 
 ## Abstract
 Genetic algorithms (GA) are widely used for optimization problems due to their ability to explore the search space and find optimal solutions. 
-However, the time required to evaluate the fitness function for everyone in the population can be a **bottleneck and lead to slow convergence**. 
+However, the time required to evaluate the fitness function for every individual in the population can be a **bottleneck and lead to slow convergence**. 
 To address this issue, we propose a novel approach to optimize the genetic algorithm for faster convergence. 
 Our approach involves calculating the fitness function using batches of data, which significantly reduces the time required for each evaluation. 
 We evaluate our approach on several benchmark problems and show that it leads to **improvement in the speed of convergence and the overall efficiency of the genetic
